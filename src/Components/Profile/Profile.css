@@ -1,0 +1,26 @@
+.mainProjects {
+  position: relative;
+  top: 30vh;
+  height: fit-content;
+  width: 350px;
+  font-family: "Electrolize", sans-serif;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 25px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+}
+
+.imageDiv {
+  background-image: url("./pokeclone.png");
+  background-size: contain;
+  height: 200px;
+  width: 350px;
+  border-radius: 20px;
+}
+.description {
+}
